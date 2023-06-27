@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity-examples-main/contracts/Multistake/Engine.sol": "Engine"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity-examples-main/contracts/Multistake/Engine.sol": {
+			"keccak256": "0xd845785fac239b7a5f6bb061b2e04d0777e8a9ce4459e6669e01d26c3ad1b59b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6f1692e7e8f520dd3ea52d70c61a0ada6e6f62f5763123b3833cd34cba829abe",
+				"dweb:/ipfs/QmNmFW31BpATQssVnnF2JcsCCNoinhgzxjJchNRwYRSGxN"
+			]
+		},
+		"solidity-examples-main/contracts/Multistake/interfaces/IRegistry.sol": {
+			"keccak256": "0x861e024b74c3b6a2317eb4b7050673e4be9421801fb381b3c3160ee59275b4f3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a41567d4db9117a4b80076445ae198ded0d48bd7d1c6d63e8dd3f11c42c044e8",
+				"dweb:/ipfs/QmVKh8UUoYNQzxmr53Z1mJAeWJYQ3ojUs6cakBBhCSNkdR"
+			]
+		}
+	},
+	"version": 1
+}

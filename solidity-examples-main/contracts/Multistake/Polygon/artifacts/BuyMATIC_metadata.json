@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "buyMATIC",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity-examples-main/contracts/Multistake/Polygon/BuyMATIC.sol": "BuyMATIC"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity-examples-main/contracts/Multistake/Polygon/BuyMATIC.sol": {
+			"keccak256": "0xca0426c7ec4d7cbfe67c3bfdcc04cfd8e849f8dc1bdb339464e13d587ea9d8a1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e951d610b959383049f6d5d1f01fcb08fde65d7461462c52bace20ae03711edd",
+				"dweb:/ipfs/Qmc99R1CN3i4FALYgMreSjwyknf4ANXn3PpQufD9SbUSM8"
+			]
+		}
+	},
+	"version": 1
+}
